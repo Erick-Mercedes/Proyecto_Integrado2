@@ -1,1 +1,1 @@
-# Proyecto_Integrado2
+# Proyecto_Integrado_Grupo_2
